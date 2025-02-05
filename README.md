@@ -13,7 +13,7 @@ Camera Mod with in game UI!
 * Follow Player (Camera will look at and follow player, misc page for settings, minimum distance and speed)
 * Grabbable Handles (you can only grab right side with right hand and left side with left hand)
 * Green Screen (in city)
-* Adjustable FOV, Nearclip and smoothing
+* Infinite FOV, Nearclip and smoothing
 
 ### *Controls:*
 * disable first person view by pressing X/Y
@@ -24,8 +24,8 @@ Camera Mod with in game UI!
 * WASD/arrow keys for freecam(also a toggle for gamepad)
  
 # *Disclamers:*
-* **This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom LLC.**
+* **This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom Inc. Portions of the materials contained herein are property of Another Axiom LLC. ©2021 Another Axiom Inc.**
 
-* **controls can be different depending what you're playing on(steamvr,oculuspcvr,index, etc.)**
+* **controls can be different depending what you're playing on**
 
-* **if you find any bugs don't report them to @yizzi. on discord**
+* **if you find any bugs don't report them to @viomod on discord**
