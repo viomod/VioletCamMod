@@ -5,14 +5,14 @@ Camera Mod with in game UI!
 ![](https://github.com/viomod/VioletCamMod/blob/main/cammod.gif)
 
 ### *Features:*
-* Monitor UI (tab to enable, shitty OnGUI but im lazy so cope)
-* Freecam with gamepad support
+* Monitor UI (tab to enable, shitty OnGUI by yizzi, not me)
+* Freecam with gamepad support (how tf)
 * Spectator with ajustable offset (and a toggle to control it with wasd)
 * First Person View with smoothing
-* Third Person View (like gtags default camera just smoother,misc page for settings, front/back and follow head rotation)
-* Follow Player (Camera will look at and follow player, misc page for settings, minimum distance and speed)
+* Third Person View
+* Follow Player (cam can look at or follow player, misc page for settings, minimum distance and speed)
 * Grabbable Handles (you can only grab right side with right hand and left side with left hand)
-* Green Screen (in city)
+* Removed stuff that interferes with camera mod
 * Infinite FOV, Nearclip and smoothing
 
 ### *Controls:*
