@@ -33,7 +33,7 @@ namespace YizziCamModV2.Comps
                     case "ControlsButton":
                         if (!CameraController.Instance.openedurl)
                         {
-                            Application.OpenURL("https://github.com/Yizzii/YizziCamModV2#controls");
+                            Application.OpenURL("https://github.com/viomod/VioletCamMod#controls");
                             CameraController.Instance.openedurl = true;
                         }
                         break;
@@ -98,19 +98,19 @@ namespace YizziCamModV2.Comps
                         CameraController.Instance.FakeWebCam.transform.Rotate(-180f, 180f, 0.0f);
                         break;
                     case "FovDown":
-                        CameraController.Instance.TabletCamera.fieldOfView -= 5f;
+                        CameraController.Instance.TabletCamera.fieldOfView -= 10f;
                         if (CameraController.Instance.TabletCamera.fieldOfView < 20)
                         {
-                            CameraController.Instance.TabletCamera.fieldOfView = 130f;
-                            CameraController.Instance.ThirdPersonCamera.fieldOfView = 130f;
+                            CameraController.Instance.TabletCamera.fieldOfView = 200f;
+                            CameraController.Instance.ThirdPersonCamera.fieldOfView = 200f;
                         }
                         CameraController.Instance.ThirdPersonCamera.fieldOfView = CameraController.Instance.TabletCamera.fieldOfView;
                         CameraController.Instance.FovText.text = CameraController.Instance.TabletCamera.fieldOfView.ToString();
                         CameraController.Instance.canbeused = true;
                         break;
                     case "FovUP":
-                        CameraController.Instance.TabletCamera.fieldOfView += 5f;
-                        if (CameraController.Instance.TabletCamera.fieldOfView > 130)
+                        CameraController.Instance.TabletCamera.fieldOfView += 10f;
+                        if (CameraController.Instance.TabletCamera.fieldOfView > 200)
                         {
                             CameraController.Instance.TabletCamera.fieldOfView = 20f;
                             CameraController.Instance.ThirdPersonCamera.fieldOfView = 20f;
