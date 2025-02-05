@@ -1,8 +1,8 @@
-# YizziCamModV2 												[![Github All Releases](https://img.shields.io/github/downloads/Yizzii/YizziCamModV2/total.svg)]() 
+# VioletCamMod 												[![Github All Releases](https://img.shields.io/github/downloads/viomod/VioletCamMod/total.svg)]() 
 
 Camera Mod with in game UI!
 
-![](https://github.com/Yizzii/YizziCamModV2/blob/main/cammod.gif)
+![](https://github.com/viomod/VioletCamMod/blob/main/cammod.gif)
 
 ### *Features:*
 * Monitor UI (tab to enable, shitty OnGUI but im lazy so cope)
