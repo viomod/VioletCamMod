@@ -1,6 +1,6 @@
 # VioletCamMod 												[![Github All Releases](https://img.shields.io/github/downloads/viomod/VioletCamMod/total.svg)]() 
 
-Camera Mod with in game UI!
+Camera Mod with in game UI! (idk how to build so build it urself)
 
 ![](https://github.com/viomod/VioletCamMod/blob/main/cammod.gif)
 
